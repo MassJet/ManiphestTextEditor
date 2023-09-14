@@ -6,7 +6,7 @@ root.geometry('1000x800')
 
 root.title('Maniphest Text Editor')
 
-
+print('test')
 
 
 root.mainloop()
